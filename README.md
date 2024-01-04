@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
   <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
   <img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=amazon rds&logoColor=white">
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wndudtjd&show_icons=true&theme=tokyonight)
 
