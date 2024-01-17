@@ -19,10 +19,11 @@
   <img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/JEST-C21325?style=for-the-badge&logo=amazon rds&logoColor=white">
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wndudtjd&show_icons=true&theme=tokyonight)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wndudtjd&layout=compact)
-
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wndudtjd&show_icons=true&theme=tokyonight">
+</p>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wndudtjd&layout=compact&color=olor=30,fad0c4,f">
+</p>
 
 </div>
