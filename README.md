@@ -19,9 +19,6 @@
   - test
     - <img src="https://img.shields.io/badge/jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
 
-  - infra
-    - <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/rds-527FFF?style=flat-square&logo=amazon rds&logoColor=white"/> <img src="https://img.shields.io/badge/s3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/> <img src="https://img.shields.io/badge/ec2-FF9900?style=flat-square&logo=amazon ec2&logoColor=white"/>
-
   - interest
     - <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
 
