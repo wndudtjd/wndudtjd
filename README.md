@@ -10,8 +10,9 @@
   ---
   ## 🚀 Featured Project
 
-  ### [Market Risk Radar](https://github.com/wndudtjd/market-risk-radar)
+  ### Market Risk Radar
   > Event-driven quant signal system for the Korean stock market
+  > `Private repo` · [Frontend (Dashboard)](https://github.com/market-risk-radar/FRONTEND_REPO_NAME)
 
   - Processes **~5,000 news/DART disclosure items per weekday** via hybrid LLM pipeline
   - Local EXAONE-3.5-32B (Mac Mini M4 Pro) + Claude API fallback → cost reduced from **$7.44 → ~$1.2/day**
