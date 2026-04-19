@@ -58,7 +58,7 @@
 
   ## 📬 Contact
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youngseong-ju-2ab731311)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dudtjdwn1575@naver.com)
 
   ![footer](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&height=60&section=footer)
