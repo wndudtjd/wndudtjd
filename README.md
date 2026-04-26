@@ -19,7 +19,7 @@
   - Event-study framework: market-adjusted alpha validation per signal category
   - Paper-trading portfolios (Portfolio A: momentum rebalancing · Portfolio B: signal-driven long)
   - Stack: `NestJS` `PostgreSQL` `Qdrant` `BGE-M3 RAG` `Claude API` `Next.js` `Vercel` `Docker` `n8n`
-
+ 
   ---
 
   ## 🛠️ Tech Stack
