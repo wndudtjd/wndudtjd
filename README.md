@@ -7,21 +7,6 @@
   **Full-Stack Developer** focused on backend systems and AI-integrated applications.
   Building production systems with Java/Spring · NestJS · Next.js, and exploring LLM pipelines in side projects.
 
-  ---
-  ## 🚀 Featured Project
-
-  ### Market Risk Radar
-  > Event-driven quant signal system for the Korean stock market
-  > `Private repo` · [Frontend (Dashboard)](https://github.com/market-risk-radar/FRONTEND_REPO_NAME)
-
-  - Processes **~5,000 news/DART disclosure items per weekday** via hybrid LLM pipeline
-  - Local EXAONE-3.5-32B (Mac Mini M4 Pro) + Claude API fallback → cost reduced from **$7.44 → ~$1.2/day**
-  - Event-study framework: market-adjusted alpha validation per signal category
-  - Paper-trading portfolios (Portfolio A: momentum rebalancing · Portfolio B: signal-driven long)
-  - Stack: `NestJS` `PostgreSQL` `Qdrant` `BGE-M3 RAG` `Claude API` `Next.js` `Vercel` `Docker` `n8n`
- 
-  ---
-
   ## 🛠️ Tech Stack
 
   **Backend**
