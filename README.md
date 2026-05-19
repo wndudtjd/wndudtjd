@@ -33,15 +33,6 @@
 
   ---
 
-  ## 📊 Activity
-
-  <p>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wndudtjd&show_icons=true&theme=tokyonight&hide_border=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wndudtjd&layout=compact&theme=tokyonight&hide_border=true"/>
-  </p>
-
-  ---
-
   ## 📬 Contact
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youngseong-ju-2ab731311)
