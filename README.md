@@ -5,7 +5,7 @@
   <h1>Hi, I'm YoungSeong 👋</h1>
 
   **Full-Stack Developer** focused on backend systems and AI-integrated applications.
-  Building production systems with Java/Spring · NestJS · Next.js, and exploring LLM pipelines in side projects.
+  Building production systems with Java/Spring · NestJS · Next.js, and exploring LLM pipelines in side projects. 
   
   ## 🛠️ Tech Stack
 
